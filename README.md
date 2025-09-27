@@ -31,7 +31,7 @@ Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que cresci
         <img 
             alt="linkedin" 
             title="Me siga no linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin    &logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
         />
     </a>    
 </p>
