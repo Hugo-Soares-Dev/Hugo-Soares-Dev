@@ -10,7 +10,7 @@
 
 Sou apaixonado por tecnologia e motivado por aprender continuamente, sempre em busca de novos desafios. Tenho facilidade em comunicação, resolução de problemas, adaptação a diferentes cenários e foco no atendimento ao cliente, habilidades que trago comigo dessa trajetória diversificada.
 
-Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que crescimento profissional também se constrói em rede. [Hugo Soares](www.linkedin.com/in/hugosoaresdev)".
+Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que crescimento profissional também se constrói em rede.
 
 <p align="left">
     <a href="https://github.com/Hugo-Soares-Dev?tab=stars">
