@@ -27,7 +27,7 @@ Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que cresci
             src="https://custom-icon-badges.demolab.com/github/followers/Hugo-Soares-Dev?color=E31010&labelColor=FF0000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/hugosoaresdev">
+    <a href="https://www.linkedin.com/in/hugosoaresdev"target="_blank" rel="noopener noreferrer">
         <img 
             alt="linkedin" 
             title="Me siga no linkedin" 
