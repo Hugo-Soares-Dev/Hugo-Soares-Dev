@@ -1,9 +1,8 @@
 # 👩🏻‍💻 Hugo Soares
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5001&pause=1000&color=F63AE3&width=435&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Aspirante+a+Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
+</p>
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Hugo Soares Pinto, tenho 37 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. busco uma transição de carreira para area de tecnologia, com experiência recente como Auxiliar de Informática atuando com testes de software, suporte ao usuário e produção de tutoriais técnicos. Forte habilidade em comunicação, resolução de problemas, adaptação a novos cenários e atendimento ao cliente. Sou facinado por tecnologia e compartilho meu progresso através do meu LinkedIn "[Hugo Soares](www.linkedin.com/in/hugosoaresdev)".
-### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
