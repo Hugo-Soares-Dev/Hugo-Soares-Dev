@@ -6,7 +6,7 @@
 </p>
 
 
-**"Olá! Meu nome é Hugo Soares Pinto, tenho 37 anos e sou de Belo Horizonte. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC e estou em transição de carreira da Gastronomia, onde atuei como sushiman, para a área de Tecnologia. Recentemente, tive a oportunidade de trabalhar como Auxiliar de Informática, atuando com testes de software, suporte ao usuário, documentação de processos e produção de tutoriais técnicos.
+Olá! Meu nome é Hugo Soares Pinto, tenho 37 anos e sou de Belo Horizonte. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC e estou em transição de carreira da Gastronomia, onde atuei como sushiman, para a área de Tecnologia. Recentemente, tive a oportunidade de trabalhar como Auxiliar de Informática, atuando com testes de software, suporte ao usuário, documentação de processos e produção de tutoriais técnicos.
 
 Sou apaixonado por tecnologia e motivado por aprender continuamente, sempre em busca de novos desafios. Tenho facilidade em comunicação, resolução de problemas, adaptação a diferentes cenários e foco no atendimento ao cliente, habilidades que trago comigo dessa trajetória diversificada.
 
