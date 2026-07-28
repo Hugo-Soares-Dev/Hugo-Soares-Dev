@@ -111,20 +111,19 @@ Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que cresci
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Hugo-Soares-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Soares-Dev&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+    width="100%"
   />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Soares-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Hugo-Soares-Dev&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+    width="100%"
   />
 </p>
 
