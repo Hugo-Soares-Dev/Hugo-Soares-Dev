@@ -111,6 +111,7 @@ Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que cresci
 
 ### 📊 Estatísticas
 
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Soares-Dev&theme=tokyo-night"
