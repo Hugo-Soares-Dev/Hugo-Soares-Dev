@@ -113,18 +113,6 @@ Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que cresci
 
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Soares-Dev&theme=tokyo-night"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Hugo-Soares-Dev&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Hugo-Soares-Dev/Hugo-Soares-Dev/output/github-contribution-grid-snake-dark.svg">
 </p>
 
