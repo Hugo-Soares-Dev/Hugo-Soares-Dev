@@ -109,12 +109,9 @@ Compartilho meu progresso e aprendizados no LinkedIn, porque acredito que cresci
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🐍 Minhas contribuições
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Hugo-Soares-Dev&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true"
-  />
+    <img src="https://raw.githubusercontent.com/Hugo-Soares-Dev/Hugo-Soares-Dev/output/github-contribution-grid-snake-dark.svg">
 </p>
 
